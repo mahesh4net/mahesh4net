@@ -8,10 +8,6 @@
 Full Stack MERN Developer • React Specialist
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
-</p>
-
 ---
 
 ## 👋 About Me
@@ -61,9 +57,10 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
 - Deployed apps using **Vercel & Render**
 - Worked directly with clients on requirements & UX
 
-<p>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
-</p>
+---
+## extra
+currently i am also working on a hobby project of mine, its going to be a full customer support software.
+hopefully it will be a competitor of zendesk / crisp in future. 
 
 ---
 
@@ -76,10 +73,10 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
   <a href="https://www.linkedin.com/in/mahesh4net/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/mahesh4net">
     <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/iam_mahesh_choudhary">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
