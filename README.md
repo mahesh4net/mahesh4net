@@ -5,24 +5,24 @@
 <h1 align="center">Mahesh Kumar</h1>
 
 <h3 align="center">
-Frontend-focused MERN Stack Developer • React Specialist
+Full Stack MERN Developer • React Specialist
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Frontend-focused developer with **1+ year of hands-on experience** building real-world MERN applications.  
-I specialize in **React**, **real-time systems**, and **clean, scalable UI architecture**.
+Full Stack MERN Developer with **1+ year of hands-on experience** building **end-to-end, production-ready applications**.  
+I specialize in **React**, **real-time systems**, and **performance-critical UI architecture**.
 
-- Strong focus on **React & modern frontend patterns**
-- Built **production-level chat systems** (WhatsApp/Discord-inspired)
-- Comfortable across **frontend ↔ backend boundaries**
-- Care deeply about **UX, performance, and maintainable code**
+- Full-stack ownership from **UI → API → DB → deployment**
+- Built **WhatsApp & Discord–style messenger systems**
+- Strong in **system design**, **UX**, and **scalable architecture**
+- Focused on **clean code, performance, and real-world reliability**
 
 ---
 
@@ -33,23 +33,36 @@ I specialize in **React**, **real-time systems**, and **clean, scalable UI archi
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,socketio" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-### Frontend / MERN Developer — **1 Year**
+### Full Stack MERN Developer — **1+ Year**
 
-- Developed **React-based dashboards & complex UIs**
-- Built **real-time chat applications** using Socket.io
-- Implemented authentication with **JWT & HTTP-only cookies**
-- Designed reusable components & scalable frontend architecture
-- Worked with APIs, file uploads, and real-world state management
+**ModelSuite AI (Current)**  
+*Messenger / Real-Time Systems Team*
+
+- Developed **WhatsApp & Discord-like chat systems**
+- Built real-time messaging using **Socket.io**
+- Designed **performance-critical UI flows**
+- Owned features **end-to-end** (design → implementation → optimization)
+- Focused on **UX precision** and **scalable system design**
+
+**Freelance Developer**
+- Delivered full-stack MERN applications
+- Built dashboards, APIs, and authentication flows
+- Deployed apps using **Vercel & Render**
+- Worked directly with clients on requirements & UX
 
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxqbTQ4N2Z6YzYzZ2I4ZmJ6dXNwZmt6b3B5dGQ5cHc1N2o4Z3B6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
 </p>
 
 ---
@@ -74,5 +87,5 @@ I specialize in **React**, **real-time systems**, and **clean, scalable UI archi
 ---
 
 <p align="center">
-  <strong>Open to frontend / MERN opportunities</strong> 🚀
+  <strong>Open to Full Stack / MERN opportunities</strong> 🚀
 </p>
