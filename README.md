@@ -25,7 +25,7 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,zustand,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
 </p>
 
 <p>
@@ -33,7 +33,7 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode,antigravity" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
 
 ---
