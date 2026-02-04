@@ -25,15 +25,15 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,zustand,tailwind" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,socketio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,socket" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode,antigravity" />
 </p>
 
 ---
