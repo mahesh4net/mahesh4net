@@ -62,6 +62,8 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
 currently i am also working on a hobby project of mine, its going to be a full customer support software.
 hopefully it will be a competitor of zendesk / crisp in future. 
 
+another hobby project of mine is strangerbeing.com which is a ranodm video and text chat website like omegle with over 20k monthly active users as of now.
+
 ---
 
 ## 🌐 Connect With Me
