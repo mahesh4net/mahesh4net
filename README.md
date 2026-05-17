@@ -40,7 +40,7 @@ I specialize in **React**, **real-time systems**, and **performance-critical UI 
 
 ## 💼 Experience
 
-### Full Stack MERN Developer — **1+ Year**
+### Full Stack MERN Developer — **1.5+ Year**
 
 **ModelSuite AI (Current)**  
 *Messenger / Real-Time Systems Team*
