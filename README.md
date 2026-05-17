@@ -12,7 +12,7 @@ Full Stack MERN Developer • React Specialist
 
 ## 👋 About Me
 
-Full Stack MERN Developer with **1+ year of hands-on experience** building **end-to-end, production-ready applications**.  
+Full Stack MERN Developer with **1.5+ year of hands-on experience** building **end-to-end, production-ready applications**.  
 I specialize in **React**, **real-time systems**, and **performance-critical UI architecture**.
 
 - Full-stack ownership from **UI → API → DB → deployment**
